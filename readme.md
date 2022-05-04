@@ -4,7 +4,6 @@ by Megan Plunkett
 ## Introduction
 The following lab explores COVID as of 2020 in the United States. The lab consists of two maps- a choropleth and a proportional symbols map, which were created using data from the The New York Times and ACS Data (see "Libraries & Data Sources").
 
-<br>
 ## Maps
 ### Map 1: U.S. 2020 COVID Rates
 > [Click here to view!](http://127.0.0.1:5500/map1.html)
@@ -18,7 +17,6 @@ Map 1 is a choropleth map of 2020 COVID Rates in the U.S. Upon hovering over a U
 
 This data was obtained from the [US Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html), [New York Times](https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv), and [ACS 2018 Population Data.](https://data.census.gov/cedsci/table?g=0100000US%24050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true)
 
-<br>
 ### Map 2: U.S. 2020 COVID Cases
 > [Click here to view!](http://127.0.0.1:5500/map2.html)
 
